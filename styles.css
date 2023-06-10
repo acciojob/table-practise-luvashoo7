@@ -3,6 +3,6 @@ table{
 	background-color : yellow;
 }
 
-table, td{
+table, th, td{
 	border : 1px solid black;
 }
